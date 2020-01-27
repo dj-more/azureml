@@ -12,9 +12,6 @@ from azureml.core import Experiment
 from azureml.opendatasets import Diabetes
 from azureml.core import Run
 
-
-
-
 #Logon to Azure
 
 cli_auth = AzureCliAuthentication()
